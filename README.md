@@ -23,7 +23,7 @@ A modern Learning Management System backend built with Node.js, TypeScript, Expr
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Vrixaalabs/lms-backend
    cd lms-backend
    ```
 
