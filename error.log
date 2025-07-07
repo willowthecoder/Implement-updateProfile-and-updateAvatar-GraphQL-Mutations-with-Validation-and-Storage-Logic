@@ -1,0 +1,40 @@
+2025-07-06T07:59:17.393Z [[31merror[39m]: Failed to start server: Apollo Server requires either an existing schema, modules or typeDefs
+2025-07-06T07:59:35.190Z [[31merror[39m]: Failed to start server: Apollo Server requires either an existing schema, modules or typeDefs
+2025-07-06T08:00:12.933Z [[31merror[39m]: Failed to start server: Apollo Server requires either an existing schema, modules or typeDefs
+2025-07-06T08:01:28.166Z [[31merror[39m]: Failed to start server: Apollo Server requires either an existing schema, modules or typeDefs
+2025-07-06T08:03:19.985Z [[31merror[39m]: Authentication error: Unauthorized
+2025-07-06T08:06:40.336Z [[31merror[39m]: Authentication error: Unauthorized
+2025-07-06T08:08:33.254Z [[31merror[39m]: Authentication error: Unauthorized
+2025-07-06T08:08:38.255Z [[31merror[39m]: Authentication error: Unauthorized
+2025-07-06T08:09:24.867Z [[31merror[39m]: Authentication error: Unauthorized
+2025-07-06T08:09:36.781Z [[31merror[39m]: Authentication error: Unauthorized
+2025-07-06T08:09:41.781Z [[31merror[39m]: Authentication error: Unauthorized
+2025-07-06T08:09:46.780Z [[31merror[39m]: Authentication error: Unauthorized
+2025-07-06T08:10:29.355Z [[31merror[39m]: Authentication error: Unauthorized
+2025-07-06T08:14:24.065Z [[31merror[39m]: Authentication error: Unauthorized
+2025-07-06T08:14:44.174Z [[31merror[39m]: Authentication error: Unauthorized
+2025-07-06T08:14:45.229Z [[31merror[39m]: Authentication error: Unauthorized
+2025-07-06T08:14:47.315Z [[31merror[39m]: Authentication error: Unauthorized
+2025-07-06T08:14:48.126Z [[31merror[39m]: Authentication error: Unauthorized
+2025-07-06T08:14:50.893Z [[31merror[39m]: Authentication error: Unauthorized
+2025-07-06T08:14:51.964Z [[31merror[39m]: Authentication error: Unauthorized
+2025-07-06T08:14:52.406Z [[31merror[39m]: Authentication error: Unauthorized
+2025-07-06T08:14:55.482Z [[31merror[39m]: Authentication error: Unauthorized
+2025-07-06T08:15:00.086Z [[31merror[39m]: Authentication error: Unauthorized
+2025-07-06T13:16:08.740Z [[31merror[39m]: Error connecting to MongoDB: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+2025-07-06T13:19:14.681Z [[31merror[39m]: Authentication error: Unauthorized
+2025-07-06T17:08:29.926Z [[31merror[39m]: Failed to start server: Cannot access 'server' before initialization
+2025-07-06T17:14:20.365Z [[31merror[39m]: Authentication error:
+2025-07-06T17:14:25.365Z [[31merror[39m]: Authentication error:
+2025-07-06T17:14:28.985Z [[31merror[39m]: Authentication error:
+2025-07-06T17:14:30.367Z [[31merror[39m]: Authentication error:
+2025-07-06T17:14:35.366Z [[31merror[39m]: Authentication error:
+2025-07-06T17:14:40.366Z [[31merror[39m]: Authentication error:
+2025-07-06T17:14:45.366Z [[31merror[39m]: Authentication error:
+2025-07-06T17:15:41.429Z [[31merror[39m]: Authentication error:
+2025-07-06T17:17:34.614Z [[31merror[39m]: Authentication error:
+2025-07-06T17:17:59.423Z [[31merror[39m]: Authentication error:
+2025-07-06T17:18:28.684Z [[31merror[39m]: Authentication error:
+2025-07-06T17:19:32.560Z [[31merror[39m]: ❌ Authentication error:
+2025-07-06T17:19:55.325Z [[31merror[39m]: ❌ Authentication error:
+2025-07-06T17:20:28.990Z [[31merror[39m]: ❌ Authentication error:
