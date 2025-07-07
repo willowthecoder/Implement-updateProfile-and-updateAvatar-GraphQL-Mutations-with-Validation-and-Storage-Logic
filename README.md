@@ -37,10 +37,9 @@
      -H "Content-Type: application/json" \
      -H "Authorization: Bearer <your-access-token>" \
      -d '{"query":"{ getCurrentUser { id name email } }"}'
-   ```
-   ```example 
-C:\Users\xyz>curl -X POST http://localhost:4000/graphql-secure -H "Authorization: Bearer ...................z0b-5fHzA.........." -H "Content-Type: application/json" --data "{\"query\": \"{ getProfile { id firstName } }\"}"
+   -----------------------
+   for example 
+   C:\Users\xyz>curl -X POST http://localhost:4000/graphql-secure -H "Authorization: Bearer ...................z0b-5fHzA.........." -H "Content-Type: application/json" --data "{\"query\": \"{ getProfile { id firstName } }\"}"
 ```
----
 
 
